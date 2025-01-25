@@ -3,6 +3,6 @@
 
 > [!IMPORTANT]
 > $\textsf{\color{crimson}{Se \ implementarón \ funciones\ reutilizables \ y \ recursividad.}}$ \
-> $\textsf{\color{lightblue}{Estado \ del \ proyecto: \ finalizado.}}$ \
+> $\textsf{\color{lightblue}{Estado \ del \ proyecto: \ finalizado.}}$ 
 
 > ``` Abrir con un navegador web ```
